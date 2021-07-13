@@ -2,6 +2,7 @@
  ni.com example
 
 ## LabVIEW 에제 출처: ni.com
+제가 참고했었던 예제 링크 아래와 같습니다.
 link: https://forums.ni.com/t5/LabVIEW/GMap-Net-in-LabVIEW-now-requires-API-Key/td-p/4034856?profile.language=ko
 
 <참고>
