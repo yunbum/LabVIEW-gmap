@@ -13,3 +13,6 @@ link: https://forums.ni.com/t5/LabVIEW/GMap-Net-in-LabVIEW-now-requires-API-Key/
 감사합니다.
 
 ![gmap-dotnet](https://user-images.githubusercontent.com/32663016/125450761-74a7d7e3-6a47-40b2-9ed4-69ce9eb72393.png)
+
+<Map Provider 오류화면>
+![gmap-dotnet-err](https://user-images.githubusercontent.com/32663016/125451052-c41e8d03-b762-42a2-b14e-c54311a9b69e.png)
